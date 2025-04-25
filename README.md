@@ -1,17 +1,3 @@
-<br />
-<div align="center">
-  <a href="https://github.com/atom-robotics-lab/assets/blob/main/logo_1.png?raw=true">
-    <img src="https://github.com/atom-robotics-lab/assets/blob/main/logo_1.png?raw=true" alt="Logo" width="120" height="120">
-  </a>
- <h3 align="center">Omnidrive AMR</h3>
-
-  <p align="center">
-    This is the repo for the <a href="https://github.com/atom-robotics-lab/omnidrive-amr">Omnidrive-AMR</a> Project, Omnidrive-amr is an autonomous omnidirectional robot made by A.T.O.M Robotics having an 8-axis drive system and capable of autonomous Navigation using various srcipts.
-  </p>
-</div>
-<br />
-
-
 ## About the Project
 This project aims to develop a comprehensive ROS2 simulation package tailored for a Omnidrive-amr.This repository shows how to autonomously navigate an omnidirectional robot
 ### Built With
@@ -113,7 +99,6 @@ Our Socials - [Linktree](https://linktr.ee/atomlabs)
 
 ## Acknowledgments
 
-* [Our wiki](https://atom-robotics-lab.github.io/wiki)
 * [ROS Official Documentation](http://wiki.ros.org/Documentation)
 * [Gazebo Tutorials](https://gazebosim.org/docs/latest/tutorials/)
 * [Ubuntu Installation guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
